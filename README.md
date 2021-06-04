@@ -1,3 +1,0 @@
-# Magic-Box
-
-Projet personnel
